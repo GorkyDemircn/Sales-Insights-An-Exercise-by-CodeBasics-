@@ -28,10 +28,39 @@ As a feedback for the youtube channel (codebasics), I have really enjoyed with t
 
 <h2> To see the incomplete design and short demo, click the link below: </h2>
 
- <p style="color: red;">
-  https://user-images.githubusercontent.com/110297297/190000261-c943deb5-0f69-481f-880c-e5151d3a72fb.png
-</p>
+<ol type = "1">
+
+<li>
+    <p>
+       <a href="https://user-images.githubusercontent.com/110297297/190000261-c943deb5-0f69-481f-880c-e5151d3a72fb.png">First Glance</a>
+   </p>
+</li>
+
+<li>
 
 <p>
-https://user-images.githubusercontent.com/110297297/190001961-0e0fd3f6-d3ed-4c11-8225-761cf50a9c10.mp4
+    <a href= "https://user-images.githubusercontent.com/110297297/190251453-0e4c7a6c-9812-415b-afc1-77c3cc9773dd.png"> List top 5s </a>  
 </p>
+</li>
+
+<li>
+<p>
+   <a href= "https://user-images.githubusercontent.com/110297297/190251598-8473c05c-6432-4889-80a5-9a5e32662e78.png"> Revenue Trend  </a>
+</p>
+</li>
+
+
+<li>
+<p>
+  <a href= "https://user-images.githubusercontent.com/110297297/190001961-0e0fd3f6-d3ed-4c11-8225-761cf50a9c10.mp4" > A short insight about data with a video </a>
+</p>
+</li>
+
+
+</ol>
+
+
+
+
+
+
