@@ -23,7 +23,24 @@ As a feedback for the youtube channel (codebasics), I have really enjoyed with t
       <h4> To see the revenue of a company in SQL by looking at distinctive years </h4> <p> Use this code :
       <code>SELECT DISTINCT(year) FROM date </code> </p> 
    </li>
+   
+  
+  <li>
+     <h4>  To see the profit margin in terms of percentage </h4>
+      <p> Use this code in Microsoft Power BI :
+      <code> Profit Margins % = DIVIDE([Total Profit Margin], [Revenue], 0)</code> </p> 
+   </li>
+   
+   <li>
+     <h4>  To see the profit margin in terms of contribution </h4>
+      <p> Use this code in Microsoft Power BI :
+      <code> Profit Margin Contribution % = DIVIDE([Revenue], CALCULATE([Total Profit Margin], ALL('sales products'), ALL('sales customers'), ALL('sales markets')))</code> </p> 
+   </li>
+   
 </ul>
+
+
+
 
 
 <h2> To see the incomplete design and short demo, click the link below: </h2>
@@ -39,20 +56,20 @@ As a feedback for the youtube channel (codebasics), I have really enjoyed with t
 <li>
 
 <p>
-    <a href= "https://user-images.githubusercontent.com/110297297/190251453-0e4c7a6c-9812-415b-afc1-77c3cc9773dd.png"> List top 5s </a>  
+    <a href= "https://user-images.githubusercontent.com/110297297/191347670-5d4f4c61-48dd-4760-a108-bb5f10f0b582.png"> List top 5s </a>  
 </p>
 </li>
 
 <li>
 <p>
-   <a href= "https://user-images.githubusercontent.com/110297297/190251598-8473c05c-6432-4889-80a5-9a5e32662e78.png"> Revenue Trend  </a>
+   <a href= "https://user-images.githubusercontent.com/110297297/191347822-bc4b002f-673b-447a-baa8-499385ba2315.png"> Revenue Trend  </a>
 </p>
 </li>
 
 
 <li>
 <p>
-   <a href= "https://user-images.githubusercontent.com/110297297/190251598-8473c05c-6432-4889-80a5-9a5e32662e78.png"> Comparison betweeen customer type and markets  </a>
+   <a href= "https://user-images.githubusercontent.com/110297297/191347982-95e0fb58-9aaa-4648-9c7e-8dfe53515f08.png"> Comparison betweeen customer type and markets  </a>
 </p>
 </li>
 
