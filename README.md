@@ -32,7 +32,7 @@ As a feedback for the youtube channel (codebasics), I have really enjoyed with t
 
 <li>
     <p>
-       <a href="https://user-images.githubusercontent.com/110297297/190000261-c943deb5-0f69-481f-880c-e5151d3a72fb.png">First Glance</a>
+       <a href="https://user-images.githubusercontent.com/110297297/191347007-36945647-3e36-4c95-9162-5c77513844d2.png">First Glance</a>
    </p>
 </li>
 
@@ -48,6 +48,15 @@ As a feedback for the youtube channel (codebasics), I have really enjoyed with t
    <a href= "https://user-images.githubusercontent.com/110297297/190251598-8473c05c-6432-4889-80a5-9a5e32662e78.png"> Revenue Trend  </a>
 </p>
 </li>
+
+
+<li>
+<p>
+   <a href= "https://user-images.githubusercontent.com/110297297/190251598-8473c05c-6432-4889-80a5-9a5e32662e78.png"> Comparison betweeen customer type and markets  </a>
+</p>
+</li>
+
+
 
 
 <li>
