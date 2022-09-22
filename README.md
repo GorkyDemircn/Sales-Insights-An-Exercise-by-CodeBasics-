@@ -62,7 +62,8 @@ As a feedback for the youtube channel (codebasics), I have really enjoyed with t
 
 <li>
 <p>
-   <a href= "https://user-images.githubusercontent.com/110297297/191347822-bc4b002f-673b-447a-baa8-499385ba2315.png"> Revenue Trend  </a>
+   <a href= "https://user-images.githubusercontent.com/110297297/191816450-40634e06-196e-4beb-a585-fac651650987.png
+"> Revenue Trend  </a>
 </p>
 </li>
 
