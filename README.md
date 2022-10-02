@@ -43,7 +43,7 @@ As a feedback for the youtube channel (codebasics), I have really enjoyed with t
 
 
 
-<h2> To see the incomplete design and short demo, click the link below: </h2>
+<h2> To see design and short demo, click the link below: </h2>
 
 <ol type = "1">
 
